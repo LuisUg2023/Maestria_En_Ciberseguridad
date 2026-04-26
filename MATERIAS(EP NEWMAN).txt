@@ -1,0 +1,20 @@
+MATERIAS QUE DICTARON EN LA MAESTRIA DE LA ESCUELA DE POSGRADOS EP NEWMAN(2024-2025):
+
+CICLO A
+Ciberdelitos y Regulación de la Ciberseguridad
+Gobierno de la Ciberseguridad y Análisis de Riesgos
+Seguridad en Redes y Análisis Inteligente de Amenazas
+Informática Forense y Respuesta ante Incidentes
+Metodología de la Investigación I
+
+CICLO B
+Seguridad en Sistemas, Aplicaciones y Datos Masivos
+Desarrollo Seguro de Software y Auditoría de la Ciberseguridad
+Acceso Ético a Sistemas y Análisis de Programas Malignos
+Mecanismos Criptográficos, de Autentificación y Control de Acceso
+Metodología de la Investigación II
+
+ESPECIALIZACION:
+Gestión de las Adquisiciones y los Interesados
+Gestión de las Comunicaciones y del Riesgo
+Integración y Alcance de Proyectos
