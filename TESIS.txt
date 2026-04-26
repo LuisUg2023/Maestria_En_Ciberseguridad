@@ -1,0 +1,125 @@
+TESIS: DISEÑO E IMPLEMENTACION DE LA ARQUITECTURA DE SEGURIDAD PARA UN SISTEMA DE FACTURACION ELECTRONICA PARA EL MUNICIPIO DE PASAJE.
+AÑO: 2025
+AUTOR: LUIS UGARTE
+
+ESTRUCTURA DEL INDICE DE LA TESIS:
+
+TESIS DE CIBERSEGURIDAD
+│
+├────────────────────────────────────────────
+│ 1. INTRODUCCIÓN
+│
+│   ├─ Abstract (Resumen)
+│   ├─ Introducción general
+│   ├─ Planteamiento del problema
+│   ├─ Formulación del problema
+│   ├─ Hipótesis
+│   ├─ Objetivos de la investigación
+│   ├─ Metodología
+│   ├─ Justificación
+│   ├─ Definiciones
+│   └─ Alcances y limitaciones
+│
+├────────────────────────────────────────────
+│ 2. MARCO TEÓRICO
+│
+│   ├─ Seguridad de la Información
+│   │   ├─ Historia
+│   │   ├─ Gestión estratégica
+│   │   └─ Normativa ISO 27001
+│   │
+│   ├─ Normas ISO/IEC
+│   │   ├─ ISO 27001 (SGSI)
+│   │   ├─ ISO 27002 (Controles)
+│   │   ├─ ISO 27005 (Riesgos)
+│   │   └─ ISO 27034 (Aplicaciones)
+│   │
+│   ├─ OWASP
+│   │   ├─ Top 10
+│   │   └─ Metodologías
+│   │
+│   ├─ Sistemas Web
+│   │   ├─ Arquitectura
+│   │   ├─ Tecnologías
+│   │   └─ Seguridad web
+│   │
+│   ├─ Ciberseguridad
+│   │   ├─ Herramientas
+│   │   ├─ Vulnerabilidades
+│   │   └─ OSINT
+│   │
+│   ├─ Auditorías
+│   │   ├─ Técnica
+│   │   ├─ Interna
+│   │   └─ Externa
+│   │
+│   ├─ SSDLC
+│   │   ├─ Fases
+│   │   └─ Tipos
+│   │
+│   └─ DevSecOps
+│       ├─ Fundamentos
+│       ├─ Prácticas
+│       └─ Herramientas
+│
+├────────────────────────────────────────────
+│ 3. MARCO ORGANIZACIONAL
+│
+│   ├─ Reseña histórica
+│   ├─ Filosofía organizacional
+│   ├─ Diseño organizacional
+│   ├─ Servicios digitales
+│   └─ Diagnóstico institucional
+│
+├────────────────────────────────────────────
+│ 4. RESULTADOS
+│
+│   ├─ 4.1 METODOLOGÍA APLICADA
+│   │   ├─ Tipo de estudio
+│   │   ├─ Población y muestra
+│   │   └─ Instrumentos
+│   │
+│   ├─ 4.2 DIAGNÓSTICO DE SEGURIDAD
+│   │   ├─ Encuestas
+│   │   ├─ Activos de información
+│   │   ├─ Clasificación de activos
+│   │   ├─ Valoración
+│   │   ├─ Amenazas
+│   │   └─ Riesgos
+│   │
+│   ├─ 4.3 DISEÑO DE SEGURIDAD
+│   │   ├─ Políticas
+│   │   ├─ Modelo PDCA
+│   │   ├─ OWASP + DevSecOps
+│   │   └─ PCI DSS
+│   │
+│   ├─ 4.4 ARQUITECTURA DE SEGURIDAD
+│   │   ├─ Diseño propuesto
+│   │   ├─ Firewalls
+│   │   ├─ iptables
+│   │   ├─ WAF
+│   │   └─ Monitoreo
+│   │
+│   ├─ 4.5 ANÁLISIS DE RESULTADOS
+│   │   ├─ Interpretación
+│   │   └─ Impacto
+│   │
+│   ├─ 4.6 PRUEBAS ESTADÍSTICAS
+│   │   ├─ Hipótesis 1
+│   │   ├─ Hipótesis 2
+│   │   └─ Hipótesis 3
+│   │
+│   └─ 4.7 DISCUSIÓN
+│       ├─ Normas ISO
+│       ├─ Arquitectura
+│       ├─ DevSecOps
+│       └─ Resultados finales
+│
+└────────────────────────────────────────────
+│ 5. CONCLUSIONES
+    ├─ Conclusiones
+    ├─ Recomendaciones
+    ├─ Bibliografía
+    └─ Anexos
+
+
